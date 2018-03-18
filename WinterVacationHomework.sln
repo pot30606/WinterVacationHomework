@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework01OddEvenNumber", "Homework01\Homework01OddEvenNumber.csproj", "{E0CE684D-D153-416E-B0C5-DD704A73F035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework02", "Homework02\Homework02.csproj", "{CE299A91-1D81-4A25-B981-893AB2D9B1BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework02AddComma", "Homework02\Homework02AddComma.csproj", "{CE299A91-1D81-4A25-B981-893AB2D9B1BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework03", "Homework03\Homework03.csproj", "{274B9AE8-ECBE-47E1-B258-391A8D0F0916}"
 EndProject
