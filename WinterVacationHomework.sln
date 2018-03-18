@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework02AddComma", "Homew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework03NumberPyramid", "Homework03\Homework03NumberPyramid.csproj", "{274B9AE8-ECBE-47E1-B258-391A8D0F0916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework04", "Homework04\Homework04.csproj", "{62A16492-7ACB-4311-9843-586D3FC0B924}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework04SplitString", "Homework04\Homework04SplitString.csproj", "{62A16492-7ACB-4311-9843-586D3FC0B924}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework05LeapYear", "Homework05LeapYear\Homework05LeapYear.csproj", "{AE865A52-B4E4-410F-A5EC-F807D2298B6E}"
 EndProject
